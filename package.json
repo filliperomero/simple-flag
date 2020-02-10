@@ -1,5 +1,5 @@
 {
-  "name": "simpleflag",
+  "name": "simple-flag",
   "version": "1.0.0",
   "description": "Flag System for Javascript",
   "main": "index.js",
